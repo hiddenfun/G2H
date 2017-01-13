@@ -1,0 +1,4 @@
+﻿  ++lib.cpp
+  ++lib.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  ++lib.vcxproj -> D:\Science\GameCore\Test#\++lib\Debug\++lib.dll
+  ++lib.vcxproj -> D:\Science\GameCore\Test#\++lib\Debug\++lib.pdb (Partial PDB)

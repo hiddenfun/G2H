@@ -1,0 +1,16 @@
+D:\Science\Test#\c++Starter\c++Starter\bin\Debug\c++Starter.exe.config
+D:\Science\Test#\c++Starter\c++Starter\obj\Debug\c++Starter.csprojResolveAssemblyReference.cache
+D:\Science\Test#\c++Starter\c++Starter\bin\Debug\c++Starter.exe
+D:\Science\Test#\c++Starter\c++Starter\bin\Debug\c++Starter.pdb
+D:\Science\Test#\c++Starter\c++Starter\bin\Debug\++lib.dll
+D:\Science\Test#\c++Starter\c++Starter\bin\Debug\++lib.pdb
+D:\Science\Test#\c++Starter\c++Starter\obj\Debug\c++Starter.exe
+D:\Science\Test#\c++Starter\c++Starter\obj\Debug\c++Starter.pdb
+D:\Science\GameCore\Test#\c++Starter\c++Starter\bin\Debug\c++Starter.exe.config
+D:\Science\GameCore\Test#\c++Starter\c++Starter\obj\Debug\c++Starter.exe
+D:\Science\GameCore\Test#\c++Starter\c++Starter\obj\Debug\c++Starter.pdb
+D:\Science\GameCore\Test#\c++Starter\c++Starter\bin\Debug\c++Starter.exe
+D:\Science\GameCore\Test#\c++Starter\c++Starter\bin\Debug\c++Starter.pdb
+D:\Science\GameCore\Test#\c++Starter\c++Starter\bin\Debug\++lib.dll
+D:\Science\GameCore\Test#\c++Starter\c++Starter\bin\Debug\++lib.pdb
+D:\Science\GameCore\Test#\c++Starter\c++Starter\obj\Debug\c++Starter.csprojResolveAssemblyReference.cache
